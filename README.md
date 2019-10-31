@@ -1,5 +1,6 @@
 # GAMEGIRL
 A very simple Game console for girls based on arduino Nano.
+
 The console features :
 - 4 color buttons with 4 color leds
 - A 16X2 LCD screen for displaying menu and game information
