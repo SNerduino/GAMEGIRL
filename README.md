@@ -11,5 +11,5 @@ The console features :
 For this version, the console has the form of a heat. I created it for my little daughter. Feel free to rebuild it with your own form and code your own games.
 
 
-The console has a game registration mechanism, a Highscore saving in EEPROM, and integrates my RTTTL Music playing library (that you can find in my other repository) with the possibility of multitasking led animation (using PMW) with button reading and audio playing.
+The console has a game registration mechanism, a Highscore saving in EEPROM, and integrates my RTTTL Music playing library (that you can find in my other repository) with the possibility of multitasking led animation (using PMW) with button reading screen updates and audio playing.
 
