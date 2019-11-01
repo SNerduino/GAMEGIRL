@@ -299,7 +299,7 @@ void display_highscores()
       high_score_id-=1;
       if(high_score_id==-1)
       {
-        high_score_id=high_score_id-1;
+        high_score_id=NB_MAX_HIGH_SCORES-1;
       }
       update_highscore();
       soft_pwm_withaudio(led_blue, 50,200, m_blue);
@@ -307,7 +307,7 @@ void display_highscores()
     if(!digitalRead(btn_green))
     {
       high_score_id+=1;
-      if(high_score_id==3)
+      if(high_score_id==NB_MAX_HIGH_SCORES)
       {
         high_score_id=0;
       }
