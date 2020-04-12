@@ -52,6 +52,7 @@ To build it, here is what you need to do:
 10. Cut the VCC line of the barrery wire and solder the ON/OFF Switch.
 11. Glue the buzzer to the top right part of the heart.
 12. Solder one of the buzzer legs to the D11 pin and the other one to the GND. You may want to add a potentiometer between the leg and ground to control volume.
+
 13. Glue the back model to the bottom part of the shell after passing the battery connector inside.
 14. Connect the battery.
 15. Glue the bottom part of the shell with the top part.
@@ -62,10 +63,12 @@ To build it, here is what you need to do:
 
 ## Some photos
 Here are different components installed into the top part of the console:
-<img src="photos/components.jpg" alt="back" width="100" height="100">
-<img src="photos/Components_placed.jpg" alt="front" width="100" height="100">
+
+<img src="photos/components.jpg" alt="back" width="300" height="300">
+<img src="photos/Components_placed.jpg" alt="front" width="300" height="300">
 
 And here is the final product:
-<img src="photos/final_product.jpg" alt="final product" width="100" height="100">
+
+<img src="photos/final_product.jpg" alt="final product" width="300" height="300">
 
 
