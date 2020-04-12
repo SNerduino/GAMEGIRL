@@ -62,11 +62,10 @@ To build it, here is what you need to do:
 
 ## Some photos
 Here are different components installed into the top part of the console:
-<img src="photos/components.jpg" alt="alt text" width="whatever" height="whatever">
-![Alt Text](photos/Components_placed.jpg?v=4&s=200)
+<img src="photos/components.jpg" alt="back" width="100" height="100">
+<img src="photos/Components_placed.jpg" alt="front" width="100" height="100">
 
 And here is the final product:
-
-![Alt Text](photos/final_product.jpg?v=4&s=200)
+<img src="photos/final_product.jpg" alt="final product" width="100" height="100">
 
 
