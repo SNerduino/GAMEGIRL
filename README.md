@@ -59,3 +59,14 @@ To build it, here is what you need to do:
 17. Connect the USB connector to the console
 18. Use Arduino IDE to load the code GAME_GIRL.ino to the arduino nano.
 19. Have fun and try to maximize your scores.
+
+## Some photos
+Here are different components installed into the top part of the console:
+![Alt Text](photos/components.jpg)
+![Alt Text](photos/Components_placed.jpg)
+
+And here is the final product:
+
+![Alt Text](photos/final_product.jpg)
+
+
