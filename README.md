@@ -62,11 +62,11 @@ To build it, here is what you need to do:
 
 ## Some photos
 Here are different components installed into the top part of the console:
-![Alt Text](photos/components.jpg| width=100)
-![Alt Text](photos/Components_placed.jpg| width=100)
+![Alt Text](photos/components.jpg?v=4&s=200)
+![Alt Text](photos/Components_placed.jpg?v=4&s=200)
 
 And here is the final product:
 
-![Alt Text](photos/final_product.jpg| width=100)
+![Alt Text](photos/final_product.jpg?v=4&s=200)
 
 
