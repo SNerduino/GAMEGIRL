@@ -64,11 +64,11 @@ To build it, here is what you need to do:
 ## Some photos
 Here are different components installed into the top part of the console:
 
-<img src="photos/components.jpg" alt="back" width="300" height="300">
-<img src="photos/Components_placed.jpg" alt="front" width="300" height="300">
+<img src="photos/components.jpg" alt="back" width="500" height="300">
+<img src="photos/Components_placed.jpg" alt="front" width="500" height="300">
 
 And here is the final product:
 
-<img src="photos/final_product.jpg" alt="final product" width="300" height="300">
+<img src="photos/final_product.jpg" alt="final product" width="500" height="300">
 
 
