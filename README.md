@@ -62,7 +62,7 @@ To build it, here is what you need to do:
 
 ## Some photos
 Here are different components installed into the top part of the console:
-![Alt Text](photos/components.jpg?v=4&s=200)
+<img src="photos/components.jpg" alt="alt text" width="whatever" height="whatever">
 ![Alt Text](photos/Components_placed.jpg?v=4&s=200)
 
 And here is the final product:
